@@ -1,0 +1,1524 @@
+nohup: ignoring input
+[0mGET / [32m200 [0m12.540 ms - 2644[0m
+[0mGET /apple-touch-icon-precomposed.png [33m404 [0m224.535 ms - 1484[0m
+[0mGET /apple-touch-icon.png [33m404 [0m38.187 ms - 1484[0m
+[0mGET /favicon.ico [33m404 [0m42.458 ms - 1484[0m
+[0mGET / [32m200 [0m1.860 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.906 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m1.475 ms - 2121[0m
+[0mGET /comments [32m200 [0m16.496 ms - 113[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m175.790 ms - 1302[0m
+[0mGET / [36m304 [0m2.819 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.466 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.337 ms - -[0m
+[0mGET /comments [36m304 [0m4.027 ms - -[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m151.636 ms - 1302[0m
+[0mGET / [36m304 [0m1.532 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.969 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.549 ms - -[0m
+[0mGET /comments [36m304 [0m3.183 ms - -[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m159.112 ms - 1302[0m
+[0mGET / [32m200 [0m1.475 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.020 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m1.406 ms - 2121[0m
+[0mGET /comments [32m200 [0m3.526 ms - 113[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m155.802 ms - 1302[0m
+[0mGET /favicon.ico [33m404 [0m44.874 ms - 1484[0m
+{ upvotes: 0,
+  _id: 58dd715b048a6aa046b722a7,
+  url: {},
+  title: 'Taylor Swift',
+  name: 'Cody' }
+{ upvotes: 0,
+  _id: 58dd715b048a6aa046b722a7,
+  url: {},
+  title: 'Taylor Swift',
+  name: 'Cody',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m32.327 ms - 91[0m
+[0mGET / [36m304 [0m0.639 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.309 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.433 ms - -[0m
+[0mGET /comments [32m200 [0m2.335 ms - 205[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Taylor Swift
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Taylor Swift&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m129.308 ms - 1302[0m
+[0mGET /youtube?q=Taylor%20Swift [32m200 [0m225.936 ms - 1293[0m
+[0mPUT /comments/58dd715b048a6aa046b722a7/upvote [32m200 [0m7.520 ms - 91[0m
+[0mPUT /comments/58dd715b048a6aa046b722a7/upvote [32m200 [0m7.080 ms - 91[0m
+[0mGET / [36m304 [0m0.653 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.463 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.864 ms - -[0m
+[0mGET /comments [32m200 [0m4.403 ms - 205[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Taylor Swift
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Taylor Swift&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m630.867 ms - 1302[0m
+[0mGET /youtube?q=Taylor%20Swift [32m200 [0m715.347 ms - 1293[0m
+[0mPUT /comments/58dd715b048a6aa046b722a7/upvote [32m200 [0m6.752 ms - 91[0m
+[0mPUT /comments/58dd67e02a5d318b447ddf4e/upvote [32m200 [0m3.224 ms - 111[0m
+[0mPUT /comments/58dd67e02a5d318b447ddf4e/upvote [32m200 [0m6.617 ms - 111[0m
+[0mPUT /comments/58dd67e02a5d318b447ddf4e/upvote [32m200 [0m2.577 ms - 111[0m
+in Delete
+[0mDELETE /comments/58dd715b048a6aa046b722a7 [32m200 [0m2.841 ms - 91[0m
+[0mGET /comments [32m200 [0m1.457 ms - 113[0m
+in Delete
+[0mDELETE /comments/58dd67e02a5d318b447ddf4e [32m200 [0m5.426 ms - 111[0m
+[0mGET /comments [36m304 [0m4.648 ms - -[0m
+[0mDELETE /comments/58dd67e02a5d318b447ddf4e [31m500 [0m32.641 ms - 681[0m
+[0mGET /comments [32m200 [0m32.470 ms - 2[0m
+{ upvotes: 0,
+  _id: 58dd7308048a6aa046b722a8,
+  url: {},
+  title: 'Mountain Biking',
+  name: 'Ashlan Neuenschwander' }
+{ upvotes: 0,
+  _id: 58dd7308048a6aa046b722a8,
+  url: {},
+  title: 'Mountain Biking',
+  name: 'Ashlan Neuenschwander',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m4.032 ms - 111[0m
+[0mGET / [36m304 [0m0.517 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.098 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.356 ms - -[0m
+[0mGET /comments [32m200 [0m2.202 ms - 113[0m
+[0mPUT /comments/58dd7308048a6aa046b722a8/upvote [32m200 [0m2.389 ms - 111[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.483 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.517 ms - -[0m
+[0mGET /comments [32m200 [0m2.186 ms - 113[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m190.510 ms - 1302[0m
+[0mGET /favicon.ico [33m404 [0m46.744 ms - 1484[0m
+[0mGET / [36m304 [0m0.646 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.227 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.387 ms - -[0m
+[0mGET /comments [32m200 [0m4.065 ms - 113[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m684.348 ms - 1302[0m
+[0mGET / [36m304 [0m1.090 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.536 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.374 ms - -[0m
+[0mGET /comments [36m304 [0m4.766 ms - -[0m
+[0mGET / [32m200 [0m0.985 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m4.947 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m4.662 ms - 2121[0m
+[0mGET /comments [32m200 [0m2.985 ms - 113[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m232.175 ms - 1302[0m
+[0mGET /favicon.ico [33m404 [0m13.186 ms - 1484[0m
+{ upvotes: 0,
+  _id: 58dd8ff2048a6aa046b722a9,
+  url: {},
+  title: 'Fiber Fix',
+  name: 'Neil' }
+{ upvotes: 0,
+  _id: 58dd8ff2048a6aa046b722a9,
+  url: {},
+  title: 'Fiber Fix',
+  name: 'Neil',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m2.268 ms - 88[0m
+[0mGET / [36m304 [0m0.577 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.531 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.530 ms - -[0m
+[0mGET /comments [32m200 [0m1.649 ms - 202[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m128.509 ms - 1302[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m148.802 ms - 1278[0m
+[0mGET / [36m304 [0m0.568 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.519 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.360 ms - -[0m
+[0mGET /comments [32m200 [0m2.648 ms - 202[0m
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m122.885 ms - 1302[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m169.719 ms - 1278[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m4.180 ms - 88[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m2.118 ms - 88[0m
+[0mGET / [36m304 [0m0.547 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.542 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.072 ms - -[0m
+[0mGET /comments [32m200 [0m1.599 ms - 202[0m
+[0mGET / [36m304 [0m0.554 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.530 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.375 ms - -[0m
+[0mGET /comments [32m200 [0m1.557 ms - 202[0m
+[0mGET / [36m304 [0m0.527 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.545 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.236 ms - -[0m
+[0mGET /comments [36m304 [0m1.567 ms - -[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m2.842 ms - 88[0m
+[0mGET / [36m304 [0m0.515 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.742 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.727 ms - -[0m
+[0mGET /comments [32m200 [0m5.974 ms - 202[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m2.723 ms - 88[0m
+[0mGET / [36m304 [0m0.550 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.845 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.352 ms - -[0m
+[0mGET /comments [32m200 [0m13.182 ms - 202[0m
+[0mGET / [36m304 [0m0.522 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.535 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.531 ms - -[0m
+[0mGET /comments [32m200 [0m3.512 ms - 202[0m
+[0mGET / [32m200 [0m1.326 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.694 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.594 ms - 2121[0m
+[0mGET /comments [32m200 [0m2.201 ms - 202[0m
+Mountain Biking
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Mountain Biking&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /favicon.ico [33m404 [0m17.802 ms - 1484[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m117.820 ms - 1278[0m
+[0mGET /youtube?q=Mountain%20Biking [32m200 [0m135.180 ms - 1302[0m
+in Delete
+[0mDELETE /comments/58dd7308048a6aa046b722a8 [32m200 [0m3.129 ms - 111[0m
+[0mGET /comments [32m200 [0m1.656 ms - 90[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m2.903 ms - 88[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m4.611 ms - 88[0m
+[0mGET / [36m304 [0m1.336 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.507 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.939 ms - -[0m
+[0mGET /comments [32m200 [0m7.026 ms - 90[0m
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m153.931 ms - 1278[0m
+{ upvotes: 0,
+  _id: 58dd915d048a6aa046b722aa,
+  url: {},
+  title: 'Neuenschwnader',
+  name: 'Ashlan' }
+{ upvotes: 0,
+  _id: 58dd915d048a6aa046b722aa,
+  url: {},
+  title: 'Neuenschwnader',
+  name: 'Ashlan',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m2.238 ms - 95[0m
+[0mGET / [36m304 [0m1.365 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.422 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.334 ms - -[0m
+[0mGET /comments [32m200 [0m2.725 ms - 186[0m
+Neuenschwnader
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Neuenschwnader&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Neuenschwnader [32m200 [0m106.616 ms - 1238[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m4.786 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.056 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m3.176 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.479 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.938 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.003 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.399 ms - 95[0m
+[0mGET / [36m304 [0m0.547 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.534 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.333 ms - -[0m
+[0mGET /comments [32m200 [0m2.133 ms - 186[0m
+[0mGET / [32m200 [0m1.173 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.850 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.610 ms - 2121[0m
+[0mGET /comments [32m200 [0m6.307 ms - 186[0m
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Neuenschwnader
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Neuenschwnader&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Neuenschwnader [32m200 [0m94.232 ms - 1238[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m112.424 ms - 1278[0m
+[0mGET /favicon.ico [33m404 [0m15.605 ms - 1484[0m
+{ upvotes: 0,
+  _id: 58dd918d048a6aa046b722ab,
+  url: {},
+  title: '<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>',
+  name: '<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>' }
+{ upvotes: 0,
+  _id: 58dd918d048a6aa046b722ab,
+  url: {},
+  title: '<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>',
+  name: '<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m2.196 ms - 243[0m
+[0mGET / [36m304 [0m0.566 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.079 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m2.735 ms - -[0m
+[0mGET /comments [32m200 [0m2.308 ms - 430[0m
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Neuenschwnader
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Neuenschwnader&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Neuenschwnader [32m200 [0m86.922 ms - 1238[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m133.420 ms - 1278[0m
+[0mGET /youtube?q=%3Cimg%20src=%22http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif%22%3E%3C/img%3E [32m200 [0m136.283 ms - 211[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m3.079 ms - 95[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m2.497 ms - 88[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m5.246 ms - 88[0m
+[0mPUT /comments/58dd8ff2048a6aa046b722a9/upvote [32m200 [0m3.537 ms - 88[0m
+[0mGET / [36m304 [0m0.527 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.693 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.673 ms - -[0m
+[0mGET /comments [32m200 [0m1.615 ms - 430[0m
+<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif"></img>&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=%3Cimg%20src=%22http://i3.kym-cdn.com/photos/images/newsfeed/000/288/648/776.gif%22%3E%3C/img%3E [32m200 [0m121.136 ms - 211[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.117 ms - 95[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.140 ms - 96[0m
+[0mGET / [36m304 [0m0.616 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.503 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.509 ms - -[0m
+[0mGET /comments [32m200 [0m1.879 ms - 431[0m
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Neuenschwnader
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Neuenschwnader&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Neuenschwnader [32m200 [0m78.186 ms - 1238[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m130.326 ms - 1278[0m
+{ upvotes: 0, _id: 58dd91e3048a6aa046b722ac, url: {} }
+{ upvotes: 0, _id: 58dd91e3048a6aa046b722ac, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.303 ms - 54[0m
+[0mGET / [36m304 [0m0.538 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.488 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.430 ms - -[0m
+[0mGET /comments [32m200 [0m1.823 ms - 486[0m
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=undefined [32m200 [0m148.176 ms - 1155[0m
+in Delete
+[0mDELETE /comments/58dd91e3048a6aa046b722ac [32m200 [0m2.185 ms - 54[0m
+[0mGET /comments [32m200 [0m2.995 ms - 431[0m
+in Delete
+[0mDELETE /comments/58dd918d048a6aa046b722ab [32m200 [0m6.881 ms - 243[0m
+[0mGET /comments [36m304 [0m4.768 ms - -[0m
+[0mDELETE /comments/58dd918d048a6aa046b722ab [31m500 [0m20.141 ms - 681[0m
+[0mGET /comments [32m200 [0m19.986 ms - 187[0m
+[0mGET / [36m304 [0m0.540 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.495 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.345 ms - -[0m
+[0mGET /comments [36m304 [0m2.189 ms - -[0m
+[0mPUT /comments/58dd915d048a6aa046b722aa/upvote [32m200 [0m2.374 ms - 96[0m
+[0mGET / [32m200 [0m0.913 ms - 2648[0m
+[0mGET /javascripts/app.js [36m304 [0m1.154 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.118 ms - -[0m
+[0mGET /comments [32m200 [0m2.521 ms - 187[0m
+[0mGET / [32m200 [0m0.868 ms - 2650[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.540 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.298 ms - -[0m
+[0mGET /comments [36m304 [0m1.451 ms - -[0m
+Neuenschwnader
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Neuenschwnader&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Fiber Fix
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Fiber Fix&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Neuenschwnader [32m200 [0m82.767 ms - 1238[0m
+[0mGET /youtube?q=Fiber%20Fix [32m200 [0m150.050 ms - 1278[0m
+[0mGET / [32m200 [0m4.097 ms - 2644[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.447 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.351 ms - -[0m
+[0mGET /comments [36m304 [0m1.617 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd8ff2048a6aa046b722a9 [32m200 [0m1.817 ms - 88[0m
+[0mGET /comments [36m304 [0m3.106 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd915d048a6aa046b722aa [32m200 [0m2.155 ms - 96[0m
+[0mGET /comments [32m200 [0m1.138 ms - 98[0m
+{ upvotes: 0,
+  _id: 58dd92b2048a6aa046b722ad,
+  url: {},
+  title: 'Seagulls Stop it now',
+  name: 'Justin' }
+{ upvotes: 0,
+  _id: 58dd92b2048a6aa046b722ad,
+  url: {},
+  title: 'Seagulls Stop it now',
+  name: 'Justin',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m2.174 ms - 101[0m
+[0mGET / [36m304 [0m0.519 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.509 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.112 ms - -[0m
+[0mGET /comments [32m200 [0m1.387 ms - 103[0m
+Seagulls Stop it now
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Seagulls Stop it now&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Seagulls%20Stop%20it%20now [32m200 [0m712.714 ms - 1304[0m
+[0mPUT /comments/58dd92b2048a6aa046b722ad/upvote [32m200 [0m2.157 ms - 101[0m
+[0mPUT /comments/58dd92b2048a6aa046b722ad/upvote [32m200 [0m2.016 ms - 101[0m
+[0mPUT /comments/58dd92b2048a6aa046b722ad/upvote [32m200 [0m1.991 ms - 101[0m
+[0mPUT /comments/58dd92b2048a6aa046b722ad/upvote [32m200 [0m17.534 ms - 101[0m
+{ upvotes: 0,
+  _id: 58dd92c4048a6aa046b722ae,
+  url: {},
+  title: 'Rick Roll',
+  name: 'Ashlan' }
+{ upvotes: 0,
+  _id: 58dd92c4048a6aa046b722ae,
+  url: {},
+  title: 'Rick Roll',
+  name: 'Ashlan',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m2.084 ms - 90[0m
+[0mGET / [36m304 [0m0.525 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.558 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.431 ms - -[0m
+[0mGET /comments [32m200 [0m2.339 ms - 194[0m
+Rick Roll
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Rick Roll&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Rick%20Roll [32m200 [0m706.763 ms - 1270[0m
+[0mPUT /comments/58dd92c4048a6aa046b722ae/upvote [32m200 [0m9.052 ms - 90[0m
+[0mPUT /comments/58dd92c4048a6aa046b722ae/upvote [32m200 [0m2.014 ms - 90[0m
+[0mPUT /comments/58dd92c4048a6aa046b722ae/upvote [32m200 [0m2.150 ms - 90[0m
+[0mPUT /comments/58dd92c4048a6aa046b722ae/upvote [32m200 [0m2.298 ms - 90[0m
+[0mPUT /comments/58dd92c4048a6aa046b722ae/upvote [32m200 [0m2.061 ms - 90[0m
+{ upvotes: 0, _id: 58dd92d6048a6aa046b722af, url: {} }
+{ upvotes: 0, _id: 58dd92d6048a6aa046b722af, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.443 ms - 54[0m
+[0mGET / [36m304 [0m0.524 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.491 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.391 ms - -[0m
+[0mGET /comments [32m200 [0m1.916 ms - 249[0m
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+{ upvotes: 0, _id: 58dd92d6048a6aa046b722b0, url: {} }
+{ upvotes: 0, _id: 58dd92d6048a6aa046b722b0, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m3.589 ms - 54[0m
+[0mGET / [36m304 [0m0.496 ms - -[0m
+{ upvotes: 0, _id: 58dd92d6048a6aa046b722b1, url: {}, title: '' }
+{ upvotes: 0,
+  _id: 58dd92d6048a6aa046b722b1,
+  url: {},
+  title: '',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m2.320 ms - 65[0m
+[0mGET /youtube?q=undefined [32m- [0m- ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.486 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.461 ms - -[0m
+[0mGET /comments [32m200 [0m1.724 ms - 370[0m
+
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+{ upvotes: 0, _id: 58dd92d7048a6aa046b722b2, url: {} }
+{ upvotes: 0, _id: 58dd92d7048a6aa046b722b2, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.276 ms - 54[0m
+[0mGET / [36m304 [0m0.488 ms - -[0m
+[0mGET /youtube?q= [32m- [0m- ms - -[0m
+
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q= [32m- [0m- ms - -[0m
+[0mGET /youtube?q=undefined [32m- [0m- ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.699 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.662 ms - -[0m
+[0mGET /comments [32m200 [0m1.699 ms - 425[0m
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=undefined [32m200 [0m612.893 ms - 1155[0m
+[0mGET /youtube?q= [32m200 [0m651.988 ms - 1277[0m
+[0mPUT /comments/58dd92d7048a6aa046b722b2/upvote [32m200 [0m2.168 ms - 54[0m
+[0mPUT /comments/58dd92d6048a6aa046b722b1/upvote [32m200 [0m2.184 ms - 65[0m
+[0mPUT /comments/58dd92d6048a6aa046b722b1/upvote [32m200 [0m3.097 ms - 65[0m
+[0mPUT /comments/58dd92d6048a6aa046b722b0/upvote [32m200 [0m1.935 ms - 54[0m
+[0mPUT /comments/58dd92d6048a6aa046b722af/upvote [32m200 [0m1.906 ms - 54[0m
+[0mPUT /comments/58dd92d6048a6aa046b722b1/upvote [32m200 [0m2.440 ms - 65[0m
+[0mPUT /comments/58dd92d6048a6aa046b722b1/upvote [32m200 [0m2.455 ms - 65[0m
+[0mPUT /comments/58dd92d6048a6aa046b722b1/upvote [32m200 [0m7.304 ms - 65[0m
+[0mGET / [36m304 [0m0.558 ms - -[0m
+[0mGET / [32m200 [0m0.706 ms - 2644[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.548 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.477 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.545 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.532 ms - 2121[0m
+[0mGET /comments [32m200 [0m1.714 ms - 425[0m
+[0mGET /comments [32m200 [0m1.695 ms - 425[0m
+Seagulls Stop it now
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Seagulls Stop it now&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Rick Roll
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Rick Roll&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /favicon.ico [33m404 [0m15.743 ms - 1484[0m
+
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=undefined [32m200 [0m621.788 ms - 1155[0m
+[0mGET /youtube?q=Rick%20Roll [32m200 [0m628.760 ms - 1270[0m
+[0mGET /youtube?q=Seagulls%20Stop%20it%20now [32m200 [0m630.306 ms - 1304[0m
+[0mGET /youtube?q= [32m200 [0m670.480 ms - 1277[0m
+in Delete
+[0mDELETE /comments/58dd92b2048a6aa046b722ad [32m200 [0m12.720 ms - 101[0m
+[0mGET /comments [36m304 [0m12.039 ms - -[0m
+[0mDELETE /comments/58dd92b2048a6aa046b722ad [31m500 [0m16.867 ms - 681[0m
+[0mGET /comments [32m200 [0m16.945 ms - 323[0m
+in Delete
+[0mDELETE /comments/58dd92c4048a6aa046b722ae [32m200 [0m1.662 ms - 90[0m
+[0mGET /comments [32m200 [0m1.083 ms - 232[0m
+in Delete
+[0mDELETE /comments/58dd92d6048a6aa046b722af [32m200 [0m2.523 ms - 54[0m
+[0mGET /comments [32m200 [0m2.784 ms - 177[0m
+in Delete
+[0mDELETE /comments/58dd92d6048a6aa046b722b0 [32m200 [0m1.899 ms - 54[0m
+[0mGET /comments [32m200 [0m5.435 ms - 122[0m
+in Delete
+[0mDELETE /comments/58dd92d6048a6aa046b722b1 [32m200 [0m1.730 ms - 65[0m
+[0mGET /comments [32m200 [0m1.943 ms - 56[0m
+in Delete
+[0mDELETE /comments/58dd92d7048a6aa046b722b2 [32m200 [0m1.644 ms - 54[0m
+[0mGET /comments [32m200 [0m0.859 ms - 2[0m
+[0mGET / [32m200 [0m0.815 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.222 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.473 ms - 2121[0m
+[0mGET /comments [32m200 [0m1.226 ms - 2[0m
+[0mGET /favicon.ico [33m404 [0m13.623 ms - 1484[0m
+[0mGET / [32m200 [0m0.839 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.756 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.794 ms - 2121[0m
+[0mGET /comments [32m200 [0m1.196 ms - 2[0m
+[0mGET /favicon.ico [33m404 [0m9.177 ms - 1484[0m
+{ upvotes: 0,
+  _id: 58dd93a5048a6aa046b722b3,
+  url: {},
+  title: 'cats',
+  name: 'Deise' }
+{ upvotes: 0,
+  _id: 58dd93a5048a6aa046b722b3,
+  url: {},
+  title: 'cats',
+  name: 'Deise',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m4.926 ms - 84[0m
+[0mGET / [36m304 [0m0.523 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.506 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.430 ms - -[0m
+[0mGET /comments [32m200 [0m1.499 ms - 86[0m
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=cats [32m200 [0m217.160 ms - 1308[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m3.045 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m3.070 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m3.425 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m2.134 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m4.583 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m2.957 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m2.313 ms - 84[0m
+[0mPUT /comments/58dd93a5048a6aa046b722b3/upvote [32m200 [0m2.109 ms - 84[0m
+{ upvotes: 0,
+  _id: 58dd93bf048a6aa046b722b4,
+  url: {},
+  title: 'Dogs',
+  name: 'Ash' }
+{ upvotes: 0,
+  _id: 58dd93bf048a6aa046b722b4,
+  url: {},
+  title: 'Dogs',
+  name: 'Ash',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m28.395 ms - 82[0m
+[0mGET / [36m304 [0m0.598 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.528 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m7.621 ms - -[0m
+[0mGET /comments [32m200 [0m2.848 ms - 169[0m
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=cats [32m200 [0m144.758 ms - 1308[0m
+[0mGET /youtube?q=Dogs [32m200 [0m171.642 ms - 1301[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.660 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.971 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.070 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.046 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.112 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.878 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.131 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.246 ms - 82[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.809 ms - 82[0m
+[0mGET / [36m304 [0m7.084 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.652 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.808 ms - -[0m
+[0mGET /comments [32m200 [0m3.980 ms - 169[0m
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Dogs [32m200 [0m114.748 ms - 1301[0m
+[0mGET /youtube?q=cats [32m200 [0m145.080 ms - 1308[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m32.633 ms - 83[0m
+{ upvotes: 0,
+  _id: 58dd93f8048a6aa046b722b5,
+  url: {},
+  title: 'Zebras',
+  name: 'Jon' }
+{ upvotes: 0,
+  _id: 58dd93f8048a6aa046b722b5,
+  url: {},
+  title: 'Zebras',
+  name: 'Jon',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m3.537 ms - 84[0m
+[0mGET / [36m304 [0m1.088 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.598 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.422 ms - -[0m
+[0mGET /comments [32m200 [0m2.070 ms - 255[0m
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Zebras [32m200 [0m174.141 ms - 1284[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.610 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.342 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.099 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.066 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.055 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m4.885 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.077 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.094 ms - 84[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.167 ms - 84[0m
+[0mGET / [36m304 [0m0.918 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.545 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.347 ms - -[0m
+[0mGET /comments [32m200 [0m1.773 ms - 255[0m
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Zebras [32m200 [0m174.048 ms - 1284[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.299 ms - 85[0m
+[0mGET / [32m200 [0m2.895 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.907 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.623 ms - 2121[0m
+[0mGET /comments [32m200 [0m1.686 ms - 256[0m
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Zebras [32m200 [0m139.869 ms - 1284[0m
+[0mGET /youtube?q=Dogs [32m200 [0m144.421 ms - 1301[0m
+[0mGET /youtube?q=cats [32m200 [0m199.748 ms - 1308[0m
+[0mGET /favicon.ico [33m404 [0m37.269 ms - 1484[0m
+[0mGET / [32m200 [0m0.940 ms - 2644[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.756 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.721 ms - 2121[0m
+[0mGET /comments [32m200 [0m1.802 ms - 256[0m
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Zebras [32m200 [0m120.964 ms - 1284[0m
+[0mGET /youtube?q=Dogs [32m200 [0m136.691 ms - 1301[0m
+[0mGET /youtube?q=cats [32m200 [0m139.975 ms - 1308[0m
+[0mGET /favicon.ico [33m404 [0m25.810 ms - 1484[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.879 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.714 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.054 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.998 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.991 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.492 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.090 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.125 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.940 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.356 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.228 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.966 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.905 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.836 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.319 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.662 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.171 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.023 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.882 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.387 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.057 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.829 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.931 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.985 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.934 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.465 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.337 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.679 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.891 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.316 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.334 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.948 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.251 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.533 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.934 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.977 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.916 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.349 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.994 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.003 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.896 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.719 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.011 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.684 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.752 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.015 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.225 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.874 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.752 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.154 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.830 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.889 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.964 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.819 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.978 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.781 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.335 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.849 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.099 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.113 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.591 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.834 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.944 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.935 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.770 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.375 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.735 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.289 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.990 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.023 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.777 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.481 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.895 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.968 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.360 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.891 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.751 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.965 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.844 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.591 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.898 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.811 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.749 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.750 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.833 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.916 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.559 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.063 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.818 ms - 83[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.997 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.873 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.676 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.872 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.956 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.853 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.744 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.400 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.868 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.923 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.918 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.517 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.736 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.399 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.910 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.804 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.840 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.823 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.845 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.799 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.823 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.903 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.509 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.805 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.958 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.895 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.170 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.854 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.941 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.833 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.949 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.979 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.953 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.878 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.964 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.932 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.887 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.864 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.884 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.860 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.993 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.684 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.532 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.844 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.247 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.854 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m11.394 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.974 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.954 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.856 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.365 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.910 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.825 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.834 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.865 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.901 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.938 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.850 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.846 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.460 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.940 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.799 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.894 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m4.023 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m5.021 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.044 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.897 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.013 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.863 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m3.057 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.839 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.880 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.940 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.444 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.965 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.870 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.843 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.825 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m2.391 ms - 84[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.890 ms - 84[0m
+[0mGET / [32m200 [0m0.868 ms - 2644[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.547 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.343 ms - -[0m
+[0mGET /comments [32m200 [0m1.513 ms - 257[0m
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Zebras [32m200 [0m117.952 ms - 1284[0m
+[0mGET /youtube?q=cats [32m200 [0m159.202 ms - 1308[0m
+[0mGET /youtube?q=Dogs [32m200 [0m245.569 ms - 1301[0m
+{ upvotes: 0,
+  _id: 58dd94ec048a6aa046b722b6,
+  url: {},
+  title: 'https://www.youtube.com/watch?v=Uk4Nu_5vSR0',
+  name: 'Doodoo' }
+{ upvotes: 0,
+  _id: 58dd94ec048a6aa046b722b6,
+  url: {},
+  title: 'https://www.youtube.com/watch?v=Uk4Nu_5vSR0',
+  name: 'Doodoo',
+  __v: 0 }
+[0mPOST /comments [32m200 [0m3.253 ms - 124[0m
+[0mGET / [36m304 [0m0.550 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.588 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.152 ms - -[0m
+[0mGET /comments [32m200 [0m1.640 ms - 382[0m
+https://www.youtube.com/watch?v=Uk4Nu_5vSR0
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=https://www.youtube.com/watch?v=Uk4Nu_5vSR0&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=https://www.youtube.com/watch?v=Uk4Nu_5vSR0 [32m200 [0m188.362 ms - 1300[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.086 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.915 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.997 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.880 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.982 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m5.996 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.797 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.002 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m5.952 ms - 124[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.610 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.948 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.923 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.907 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.956 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.874 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.534 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.772 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.851 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.808 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.872 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.935 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.452 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.809 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.812 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.356 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.906 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.595 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.983 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.959 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.752 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.657 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.826 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.879 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.875 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.991 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.832 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.799 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.814 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.849 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.773 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.816 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.511 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.812 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.310 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.890 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.959 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.879 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.505 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.564 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.867 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.602 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.424 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.093 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.348 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.836 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.956 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.960 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.959 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.068 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.803 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.589 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.442 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.882 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.909 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.887 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.762 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.162 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.906 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.686 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.220 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.203 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.964 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.752 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.841 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.852 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.787 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.603 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.819 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.813 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.209 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.785 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.738 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.851 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.830 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.613 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.721 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.814 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.807 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.275 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.792 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.777 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m6.879 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.856 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m5.537 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.857 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.669 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.481 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.856 ms - 125[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.823 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.749 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.637 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.438 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.764 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.820 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.898 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.529 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.127 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.088 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.849 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.869 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.820 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.705 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.475 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.886 ms - 126[0m
+[0mPUT /comments/58dd93bf048a6aa046b722b4/upvote [32m200 [0m1.927 ms - 84[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.775 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.267 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.748 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.813 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.537 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m6.926 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m4.639 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m4.780 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.826 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.413 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.374 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.766 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.387 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.878 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.126 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.765 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.798 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.824 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.627 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m10.650 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.827 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.878 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.889 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.849 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.833 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.866 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.947 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.878 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.725 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.923 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.862 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.847 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.761 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.733 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.997 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m5.604 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.927 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.863 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.847 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.785 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.928 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.848 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.875 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.837 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.902 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.843 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m5.511 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.372 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.776 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.778 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.832 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.909 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.865 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.905 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.837 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m7.199 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.406 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.800 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.784 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.809 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.742 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.847 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.847 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.850 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.504 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.893 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.771 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.857 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.831 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.696 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.825 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.625 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.504 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.911 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.853 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.881 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.944 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.796 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.808 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.825 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m4.962 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m10.603 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.500 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.847 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.836 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.907 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.824 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.800 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.574 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.821 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.792 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.415 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.887 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.781 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.825 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.847 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.821 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.538 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.802 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.755 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.807 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.508 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.873 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.979 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.902 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.777 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.807 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.779 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.802 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.755 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.431 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.732 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.938 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.801 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.833 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.811 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.796 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.844 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.972 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.834 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.607 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.898 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.813 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.842 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.845 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.783 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.771 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.814 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.410 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.804 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.799 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.795 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.843 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.801 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.764 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.768 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.821 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m3.562 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.552 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.841 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.827 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.818 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.791 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.890 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.785 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.885 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.846 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.430 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.868 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.938 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.872 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.808 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.842 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.836 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.802 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.803 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.813 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.516 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m11.371 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.755 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.797 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.833 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.743 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.796 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.729 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.801 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.750 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.341 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.930 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.818 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.692 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.548 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.840 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.778 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.708 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.695 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.476 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.837 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.757 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.650 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.789 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.758 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.720 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.768 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.837 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.814 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m2.261 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.806 ms - 126[0m
+[0mPUT /comments/58dd94ec048a6aa046b722b6/upvote [32m200 [0m1.817 ms - 126[0m
+[0mGET /comments [32m200 [0m1.989 ms - 384[0m
+in Delete
+[0mDELETE /comments/58dd94ec048a6aa046b722b6 [32m200 [0m2.101 ms - 126[0m
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+cats
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=cats&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Dogs [32m200 [0m120.926 ms - 1301[0m
+[0mGET /youtube?q=Zebras [32m200 [0m121.316 ms - 1284[0m
+[0mGET /youtube?q=cats [32m200 [0m180.231 ms - 1308[0m
+in Delete
+[0mDELETE /comments/58dd93a5048a6aa046b722b3 [32m200 [0m1.549 ms - 84[0m
+[0mDELETE /comments/58dd93a5048a6aa046b722b3 [31m500 [0m57.106 ms - 681[0m
+[0mGET /comments [32m200 [0m57.551 ms - 172[0m
+[0mGET /comments [36m304 [0m2.261 ms - -[0m
+[0mGET / [32m200 [0m0.889 ms - 2672[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.521 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.346 ms - -[0m
+[0mGET /comments [32m200 [0m1.447 ms - 172[0m
+{ upvotes: 0, _id: 58dd9596048a6aa046b722b7, url: {} }
+{ upvotes: 0, _id: 58dd9596048a6aa046b722b7, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.784 ms - 54[0m
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET / [36m304 [0m0.580 ms - -[0m
+[0mGET /youtube?q=Dogs [32m200 [0m124.441 ms - 1301[0m
+[0mGET /youtube?q=Zebras [32m- [0m- ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.407 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.545 ms - -[0m
+{ upvotes: 0, _id: 58dd9596048a6aa046b722b8, url: {} }
+[0mGET /comments [32m200 [0m4.334 ms - 227[0m
+{ upvotes: 0, _id: 58dd9596048a6aa046b722b8, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.549 ms - 54[0m
+Dogs
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Dogs&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=Zebras [32m200 [0m120.254 ms - 1284[0m
+[0mGET /youtube?q=Dogs [32m200 [0m131.830 ms - 1301[0m
+[0mGET /youtube?q=undefined [32m200 [0m126.757 ms - 1155[0m
+[0mGET / [36m304 [0m0.455 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.505 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.363 ms - -[0m
+[0mGET /comments [32m200 [0m1.583 ms - 282[0m
+{ upvotes: 0, _id: 58dd9597048a6aa046b722b9, url: {} }
+{ upvotes: 0, _id: 58dd9597048a6aa046b722b9, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.465 ms - 54[0m
+[0mGET / [36m304 [0m0.581 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.470 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.293 ms - -[0m
+{ upvotes: 0, _id: 58dd9597048a6aa046b722ba, url: {} }
+{ upvotes: 0, _id: 58dd9597048a6aa046b722ba, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.955 ms - 54[0m
+[0mGET /comments [32m200 [0m1.740 ms - 392[0m
+[0mGET / [36m304 [0m1.097 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.520 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.332 ms - -[0m
+[0mGET /comments [32m200 [0m1.526 ms - 392[0m
+{ upvotes: 0, _id: 58dd9598048a6aa046b722bb, url: {} }
+{ upvotes: 0, _id: 58dd9598048a6aa046b722bb, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.388 ms - 54[0m
+[0mGET / [36m304 [0m0.495 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.537 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.951 ms - -[0m
+{ upvotes: 0, _id: 58dd9598048a6aa046b722bc, url: {} }
+{ upvotes: 0, _id: 58dd9598048a6aa046b722bc, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m3.195 ms - 54[0m
+[0mGET /comments [32m200 [0m2.852 ms - 502[0m
+[0mGET / [36m304 [0m0.509 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.507 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.302 ms - -[0m
+{ upvotes: 0, _id: 58dd9598048a6aa046b722bd, url: {} }
+{ upvotes: 0, _id: 58dd9598048a6aa046b722bd, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.939 ms - 54[0m
+[0mGET /comments [32m200 [0m2.849 ms - 557[0m
+[0mGET / [36m304 [0m0.459 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.501 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.300 ms - -[0m
+[0mGET /comments [32m200 [0m1.712 ms - 557[0m
+{ upvotes: 0, _id: 58dd9599048a6aa046b722be, url: {} }
+{ upvotes: 0, _id: 58dd9599048a6aa046b722be, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.442 ms - 54[0m
+[0mGET / [36m304 [0m1.225 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.659 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.625 ms - -[0m
+[0mGET /comments [32m200 [0m1.706 ms - 612[0m
+{ upvotes: 0, _id: 58dd9599048a6aa046b722bf, url: {} }
+{ upvotes: 0, _id: 58dd9599048a6aa046b722bf, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.417 ms - 54[0m
+[0mGET / [36m304 [0m0.551 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.615 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.619 ms - -[0m
+[0mGET /comments [32m200 [0m2.651 ms - 667[0m
+{ upvotes: 0, _id: 58dd959a048a6aa046b722c0, url: {} }
+{ upvotes: 0, _id: 58dd959a048a6aa046b722c0, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.383 ms - 54[0m
+[0mGET / [36m304 [0m0.543 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.674 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.644 ms - -[0m
+[0mGET /comments [32m200 [0m1.818 ms - 722[0m
+{ upvotes: 0, _id: 58dd959a048a6aa046b722c1, url: {} }
+{ upvotes: 0, _id: 58dd959a048a6aa046b722c1, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.342 ms - 54[0m
+[0mGET / [36m304 [0m0.528 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.516 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.295 ms - -[0m
+[0mGET /comments [32m200 [0m1.784 ms - 777[0m
+{ upvotes: 0, _id: 58dd959b048a6aa046b722c2, url: {} }
+{ upvotes: 0, _id: 58dd959b048a6aa046b722c2, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.362 ms - 54[0m
+[0mGET / [36m304 [0m0.508 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.344 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.319 ms - -[0m
+[0mGET /comments [32m200 [0m2.230 ms - 832[0m
+{ upvotes: 0, _id: 58dd959b048a6aa046b722c3, url: {} }
+{ upvotes: 0, _id: 58dd959b048a6aa046b722c3, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.453 ms - 54[0m
+[0mGET / [36m304 [0m0.598 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.525 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.435 ms - -[0m
+{ upvotes: 0, _id: 58dd959c048a6aa046b722c4, url: {} }
+[0mGET /comments [32m200 [0m4.444 ms - 887[0m
+{ upvotes: 0, _id: 58dd959c048a6aa046b722c4, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m4.324 ms - 54[0m
+[0mGET / [36m304 [0m0.512 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.593 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.337 ms - -[0m
+{ upvotes: 0, _id: 58dd959d048a6aa046b722c5, url: {} }
+{ upvotes: 0, _id: 58dd959d048a6aa046b722c5, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.140 ms - 54[0m
+[0mGET /comments [32m200 [0m3.672 ms - 997[0m
+[0mGET / [36m304 [0m0.578 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.609 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.328 ms - -[0m
+[0mGET /comments [32m200 [0m2.251 ms - 997[0m
+{ upvotes: 0, _id: 58dd959d048a6aa046b722c6, url: {} }
+{ upvotes: 0, _id: 58dd959d048a6aa046b722c6, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.040 ms - 54[0m
+[0mGET / [36m304 [0m0.528 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.735 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.721 ms - -[0m
+{ upvotes: 0, _id: 58dd959e048a6aa046b722c7, url: {} }
+[0mGET /comments [32m200 [0m3.563 ms - 1052[0m
+{ upvotes: 0, _id: 58dd959e048a6aa046b722c7, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m3.140 ms - 54[0m
+[0mGET / [36m304 [0m1.646 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.506 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.325 ms - -[0m
+[0mGET /comments [32m200 [0m2.539 ms - 1107[0m
+{ upvotes: 0, _id: 58dd959f048a6aa046b722c8, url: {} }
+{ upvotes: 0, _id: 58dd959f048a6aa046b722c8, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.539 ms - 54[0m
+[0mGET / [36m304 [0m0.548 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.681 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.322 ms - -[0m
+[0mGET /comments [32m200 [0m2.608 ms - 1162[0m
+{ upvotes: 0, _id: 58dd95a0048a6aa046b722c9, url: {} }
+{ upvotes: 0, _id: 58dd95a0048a6aa046b722c9, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.551 ms - 54[0m
+[0mGET / [36m304 [0m1.884 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.910 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.745 ms - -[0m
+{ upvotes: 0, _id: 58dd95a0048a6aa046b722ca, url: {} }
+{ upvotes: 0, _id: 58dd95a0048a6aa046b722ca, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.431 ms - 54[0m
+[0mGET /comments [32m200 [0m2.893 ms - 1272[0m
+[0mGET / [36m304 [0m23.089 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.547 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.628 ms - -[0m
+[0mGET /comments [32m200 [0m10.296 ms - 1272[0m
+{ upvotes: 0, _id: 58dd95a1048a6aa046b722cb, url: {} }
+{ upvotes: 0, _id: 58dd95a1048a6aa046b722cb, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m2.221 ms - 54[0m
+[0mGET / [36m304 [0m0.668 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.428 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.302 ms - -[0m
+[0mGET /comments [32m200 [0m2.677 ms - 1327[0m
+{ upvotes: 0, _id: 58dd95a2048a6aa046b722cc, url: {} }
+{ upvotes: 0, _id: 58dd95a2048a6aa046b722cc, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.461 ms - 54[0m
+[0mGET / [36m304 [0m0.513 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.462 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.287 ms - -[0m
+[0mGET /comments [32m200 [0m3.018 ms - 1382[0m
+{ upvotes: 0, _id: 58dd95a3048a6aa046b722cd, url: {} }
+{ upvotes: 0, _id: 58dd95a3048a6aa046b722cd, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.364 ms - 54[0m
+[0mGET / [36m304 [0m0.487 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.492 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.315 ms - -[0m
+{ upvotes: 0, _id: 58dd95a4048a6aa046b722ce, url: {} }
+{ upvotes: 0, _id: 58dd95a4048a6aa046b722ce, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.925 ms - 54[0m
+[0mGET /comments [32m200 [0m2.539 ms - 1492[0m
+[0mGET / [36m304 [0m0.486 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.637 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.612 ms - -[0m
+{ upvotes: 0, _id: 58dd95a5048a6aa046b722cf, url: {} }
+[0mGET /comments [32m200 [0m4.536 ms - 1492[0m
+{ upvotes: 0, _id: 58dd95a5048a6aa046b722cf, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m3.240 ms - 54[0m
+[0mGET / [36m304 [0m0.552 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.647 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.676 ms - -[0m
+[0mGET /comments [32m200 [0m2.344 ms - 1547[0m
+{ upvotes: 0, _id: 58dd95a6048a6aa046b722d0, url: {} }
+{ upvotes: 0, _id: 58dd95a6048a6aa046b722d0, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.394 ms - 54[0m
+[0mGET / [36m304 [0m0.496 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.684 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.637 ms - -[0m
+[0mGET /comments [32m200 [0m12.142 ms - 1602[0m
+{ upvotes: 0, _id: 58dd95a7048a6aa046b722d1, url: {} }
+{ upvotes: 0, _id: 58dd95a7048a6aa046b722d1, url: {}, __v: 0 }
+[0mPOST /comments [32m200 [0m1.312 ms - 54[0m
+[0mGET / [32m200 [0m1.039 ms - 2644[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.670 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.655 ms - -[0m
+[0mGET /comments [32m200 [0m3.303 ms - 1657[0m
+in Delete
+[0mDELETE /comments/58dd9596048a6aa046b722b7 [32m200 [0m21.852 ms - 54[0m
+[0mGET /comments [36m304 [0m23.426 ms - -[0m
+[0mGET /comments [32m200 [0m5.697 ms - 1602[0m
+[0mDELETE /comments/58dd9596048a6aa046b722b7 [31m500 [0m46.801 ms - 681[0m
+in Delete
+[0mDELETE /comments/58dd9596048a6aa046b722b8 [32m200 [0m2.278 ms - 54[0m
+[0mGET /comments [32m200 [0m5.347 ms - 1547[0m
+[0mDELETE /comments/58dd9596048a6aa046b722b8 [31m500 [0m27.120 ms - 681[0m
+[0mGET /comments [36m304 [0m4.437 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd9597048a6aa046b722b9 [32m200 [0m1.625 ms - 54[0m
+[0mGET /comments [32m200 [0m5.657 ms - 1492[0m
+[0mDELETE /comments/58dd9597048a6aa046b722b9 [31m500 [0m49.198 ms - 681[0m
+[0mGET /comments [36m304 [0m2.450 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd9597048a6aa046b722ba [32m200 [0m5.078 ms - 54[0m
+[0mGET /comments [36m304 [0m4.475 ms - -[0m
+[0mDELETE /comments/58dd9597048a6aa046b722ba [31m500 [0m13.590 ms - 681[0m
+[0mGET /comments [32m200 [0m4.974 ms - 1437[0m
+in Delete
+[0mDELETE /comments/58dd9598048a6aa046b722bb [32m200 [0m11.815 ms - 54[0m
+[0mGET /comments [32m200 [0m4.702 ms - 1382[0m
+[0mDELETE /comments/58dd9598048a6aa046b722bb [31m500 [0m36.059 ms - 681[0m
+[0mGET /comments [36m304 [0m2.220 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd9598048a6aa046b722bc [32m200 [0m3.751 ms - 54[0m
+[0mGET /comments [32m200 [0m4.298 ms - 1327[0m
+in Delete
+[0mDELETE /comments/58dd9598048a6aa046b722bd [32m200 [0m1.547 ms - 54[0m
+[0mGET /comments [32m200 [0m2.498 ms - 1272[0m
+in Delete
+[0mDELETE /comments/58dd9599048a6aa046b722be [32m200 [0m2.250 ms - 54[0m
+[0mGET /comments [32m200 [0m1.592 ms - 1217[0m
+[0mGET /comments [36m304 [0m3.438 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd9599048a6aa046b722bf [32m200 [0m6.125 ms - 54[0m
+[0mDELETE /comments/58dd9599048a6aa046b722bf [31m500 [0m27.586 ms - 681[0m
+[0mDELETE /comments/58dd9599048a6aa046b722bf [31m500 [0m46.346 ms - 681[0m
+[0mGET /comments [32m200 [0m47.132 ms - 1162[0m
+[0mDELETE /comments/58dd9599048a6aa046b722bf [31m500 [0m22.386 ms - 681[0m
+[0mGET /comments [36m304 [0m3.670 ms - -[0m
+[0mGET /comments [36m304 [0m3.981 ms - -[0m
+[0mDELETE /comments/58dd9599048a6aa046b722bf [31m500 [0m12.362 ms - 681[0m
+[0mGET /comments [36m304 [0m2.930 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd95a5048a6aa046b722cf [32m200 [0m1.605 ms - 54[0m
+[0mGET /comments [32m200 [0m1.902 ms - 1107[0m
+in Delete
+[0mDELETE /comments/58dd95a4048a6aa046b722ce [32m200 [0m1.557 ms - 54[0m
+[0mGET /comments [32m200 [0m1.514 ms - 1052[0m
+[0mGET /comments [36m304 [0m3.841 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd95a0048a6aa046b722ca [32m200 [0m3.727 ms - 54[0m
+[0mGET / [32m200 [0m1.231 ms - 2665[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.582 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.302 ms - -[0m
+[0mGET /comments [32m200 [0m6.746 ms - 997[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m4.408 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.831 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m3.258 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.880 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.523 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m3.563 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.910 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.292 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.354 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.970 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.763 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m3.137 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.264 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.890 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.280 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.865 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.915 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m3.876 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.266 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.382 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.503 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m5.198 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.856 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.646 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m5.619 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m1.954 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.244 ms - 85[0m
+[0mPUT /comments/58dd93f8048a6aa046b722b5/upvote [32m200 [0m2.303 ms - 85[0m
+[0mGET /comments [32m200 [0m3.120 ms - 997[0m
+in Delete
+[0mDELETE /comments/58dd93bf048a6aa046b722b4 [32m200 [0m2.991 ms - 84[0m
+[0mGET /comments [32m200 [0m1.661 ms - 912[0m
+[0mDELETE /comments/58dd93bf048a6aa046b722b4 [31m500 [0m15.008 ms - 681[0m
+Zebras
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=Zebras&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=undefined [32m200 [0m118.168 ms - 1155[0m
+[0mGET /youtube?q=Zebras [32m200 [0m143.421 ms - 1284[0m
+in Delete
+[0mDELETE /comments/58dd93f8048a6aa046b722b5 [32m200 [0m1.983 ms - 85[0m
+[0mGET /comments [32m200 [0m2.173 ms - 826[0m
+[0mPUT /comments/58dd959a048a6aa046b722c0/upvote [32m200 [0m2.117 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c0/upvote [32m200 [0m2.962 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c0/upvote [32m200 [0m1.908 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c0/upvote [32m200 [0m1.812 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m1.812 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m4.096 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m2.630 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m1.890 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m1.884 ms - 54[0m
+[0mGET / [36m304 [0m0.567 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.525 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.325 ms - -[0m
+[0mGET /comments [32m200 [0m1.923 ms - 826[0m
+[0mPUT /comments/58dd959b048a6aa046b722c2/upvote [32m200 [0m2.196 ms - 54[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.508 ms - -[0m
+[0mGET / [32m200 [0m0.952 ms - 2665[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.786 ms - 298[0m
+[0mGET /javascripts/app.js [32m200 [0m0.537 ms - 2121[0m
+[0mGET /comments [32m200 [0m2.791 ms - 826[0m
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /favicon.ico [33m404 [0m9.221 ms - 1484[0m
+[0mGET /youtube?q=undefined [32m200 [0m116.960 ms - 1155[0m
+[0mGET / [36m304 [0m0.568 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.514 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.686 ms - 2198[0m
+[0mGET /comments [32m200 [0m4.429 ms - 826[0m
+undefined
+https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=undefined&key=AIzaSyCm_gcAsiirdPiVdJ_-5X-c7zi4H3N77JM
+[0mGET /youtube?q=undefined [32m200 [0m138.817 ms - 1155[0m
+[0mPUT /comments/58dd959a048a6aa046b722c0/upvote [32m200 [0m4.589 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c0/upvote [32m200 [0m1.871 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m1.823 ms - 54[0m
+[0mPUT /comments/58dd959a048a6aa046b722c1/upvote [32m200 [0m1.875 ms - 54[0m
+[0mGET / [36m304 [0m0.546 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.688 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.993 ms - 2198[0m
+[0mGET /comments [32m200 [0m1.941 ms - 826[0m
+in Delete
+[0mDELETE /comments/58dd95a3048a6aa046b722cd [32m200 [0m1.452 ms - 54[0m
+[0mGET /comments [32m200 [0m2.538 ms - 771[0m
+[0mGET /comments [36m304 [0m2.259 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd95a6048a6aa046b722d0 [32m200 [0m2.299 ms - 54[0m
+[0mGET /comments [32m200 [0m1.824 ms - 716[0m
+in Delete
+[0mDELETE /comments/58dd95a7048a6aa046b722d1 [32m200 [0m0.951 ms - 54[0m
+[0mDELETE /comments/58dd95a7048a6aa046b722d1 [31m500 [0m27.535 ms - 681[0m
+[0mGET /comments [32m200 [0m31.399 ms - 661[0m
+in Delete
+[0mDELETE /comments/58dd95a2048a6aa046b722cc [32m200 [0m1.324 ms - 54[0m
+[0mGET /comments [36m304 [0m3.916 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd959d048a6aa046b722c5 [32m200 [0m1.392 ms - 54[0m
+[0mGET /comments [32m200 [0m2.808 ms - 551[0m
+in Delete
+[0mDELETE /comments/58dd959c048a6aa046b722c4 [32m200 [0m5.555 ms - 54[0m
+[0mGET /comments [36m304 [0m3.064 ms - -[0m
+in Delete
+[0mDELETE /comments/58dd959b048a6aa046b722c3 [32m200 [0m1.419 ms - 54[0m
+[0mGET /comments [32m200 [0m1.288 ms - 441[0m

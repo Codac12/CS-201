@@ -1,0 +1,45 @@
+body {
+  font-size: : 14px;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 7.5%;
+  padding-right: 7.5%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.page-header {
+  text-align: center;
+  font-size:84px;
+  font-family: 'Shadows Into Light', cursive;
+}
+.sub-header
+{
+  text-align: center;
+  font-size:24px;
+  font-family: 'Open Sans', sans-serif;
+}
+.regular {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.section-header
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.center {
+  padding-bottom: 10%;
+}
+
+#currentTop {
+  margin-bottom: 75px;
+}
+
+#curName{
+  background-color: green;
+  color:white;
+  padding: 1px;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8"/>
+		<title>201 Services</title>
+
+		<!-- Google web fonts -->
+		<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel='stylesheet' />
+
+		<!-- The main CSS file -->
+		//<link href="creative3.css" rel="stylesheet" />
+	</head>
+
+	<body>
+
+		<form id="main" ng-app ng-controller="myservices">
+			<h1>201 Services</h1>
+
+			<h4>
+
+			<ul id="services">
+				<!-- The services will be inserted here -->
+				<li ng-repeat="service in services">
+					<label>
+						<input type="checkbox" ng-model="service.selected" value="1" name="{{service.title}}" />
+						{{service.title}}<span>${{service.price}}</span>
+					</label>
+				</li>
+			</ul>
+
+			<p id="total">total: <span>${{total()}}</span></p>
+
+			<button ng-click="printOut = 'Order Recieved'" ng-init="printOut = ''">Order</button>
+			{{printOut}}
+
+		</form>
+
+		<!-- The single AngularJS include -->
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.5/angular.min.js"></script>
+		<script src="creative3.js"></script>
+
+	</body>
+</html>

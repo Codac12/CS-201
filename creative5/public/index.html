@@ -1,0 +1,59 @@
+<html>
+<head>
+  <title>Creative 5</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0-beta.2/angular-sanitize.js">
+"></script>
+  <script src="javascripts/app.js"></script>
+
+</head>
+<body ng-app="comment" ng-controller="MainCtrl">
+
+	<div class="page-header"> 
+		  <h1 style="font-size:64px">Get YOUR Video to the Top!</h1>
+		  <p style="font-size:24px">Click the <span class="glyphicon glyphicon-thumbs-up"></span> to up-vote videos. Click <span class="glyphicon glyphicon-remove"></span> to delete a video.</p>
+		  <p><strong>Please don't delete other peoples' videos, unless it's inappropriate</strong></p>
+	</div>
+
+
+	<center>
+		  <form ng-submit="addComment()" style = "margin-top30px;">
+			    <input type="text" placeholder = "What is your name?" ng-model="formName">
+
+			    <input type="text" placeholder = "YouTube Video" ng-model="formContent">
+			    <button type="submit">Submit Your Video</button>
+		  </form>
+	 </center>
+
+	<div ng-init="getVideo()" id="currentTop">
+		<h2>Current Top Video</h2>
+	  		<h3><span id="curName">Current Winner: {{comments[0].name}} </span></h3>
+	  		<h5>Likes: {{comments[0].upvotes}} </h5>
+	  	  <iframe width='100%' height='90%' ng-src="{{embeds[comments[0]._id]}}" frameborder='0' allowfullscreen></iframe>
+	  	  	<div style="margin-top:20px">
+		    <span class="glyphicon glyphicon-remove" style="font-size:2em; padding-right: 20px" ng-click="delete(comments[0])"></span>
+		    <span class="glyphicon glyphicon-thumbs-up" style="font-size:2em;" ng-click="incrementUpvotes(comments[0])"> 
+		    Likes: {{comments[0].upvotes}}
+		    </span>
+		    </div>
+	</div>
+
+  <div class = "row" ng-repeat="comment in comments | orderBy: '-upvotes'" ng-if="$index % 3 == 0" >
+  	<div class="col-xs-4" 
+  		 ng-repeat="i in [$index, $index + 1, $index + 2]" 
+  		 ng-if="comments[i] != null">
+  		 <div>
+		    User's Name: <b>{{comments[i].name}}</b></div>
+		    <iframe width='100%' height='50%' ng-src="{{embeds[comments[i]._id]}}" frameborder='0' allowfullscreen></iframe>
+		    <div style="margin-top: 20px">
+		    <span class="glyphicon glyphicon-remove" style="font-size:2em; padding-right: 20px"  ng-click="delete(comments[i])"></span>
+		    <span class="glyphicon glyphicon-thumbs-up" style="font-size:2em;" ng-click="incrementUpvotes(comments[i])"> Likes: {{comments[i].upvotes}}</span>
+		    </div>
+		 </div>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+h1 {
+	color:black;
+	text-align:center;
+}
+
+body{
+	background-color: red;
+}
+
+#myBtn{
+	position:absolute;
+	border-radius: 5px;
+	height:40px;
+	width:180px;
+	top:200px;
+	left:650px;
+
+}
